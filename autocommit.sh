@@ -28,7 +28,7 @@ moonraker_folder=~/moonraker
 mainsail_folder=~/mainsail
 
 ### Path to your Fluidd folder, by default that is '~/fluidd'
-#fluidd_folder=~/fluidd
+fluidd_folder=~/fluidd
 
 ### The branch of the repository that you want to save your config
 ### By default that is 'master'
